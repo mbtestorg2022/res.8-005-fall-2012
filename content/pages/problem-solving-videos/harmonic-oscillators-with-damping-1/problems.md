@@ -50,7 +50,7 @@ The circuit shown above consists of a capacitor (\\(C\\)), an inductor (\\(L\\)
 
 1\.   Initial sign will be reversed only if the circuit is underdamped:
 
-i.e., \\(R < 2 \\sqrt{\\frac{L}{C}}\\)
+i.e., \\(R \< 2 \\sqrt{\\frac{L}{C}}\\)
 
 2.
 

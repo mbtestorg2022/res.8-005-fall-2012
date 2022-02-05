@@ -40,7 +40,7 @@ A capacitor (of capacitance C), a resistor (of resistance R) and an inductor (of
 
 ![An RLC circuit connected to an AC voltage source.]({{< resource_file de02249c-029d-ec40-be2a-38aa808769b0 >}})
 
-Assuming that both the current and the charge of the capacitor are initially zero, determine the expression for \\(V\_C(t\\ge0)\\) with \\(\\omega=\\omega\_0=\\dfrac{1}{\\sqrt{LC}}\\) and \\(L < 4R^2C\\).
+Assuming that both the current and the charge of the capacitor are initially zero, determine the expression for \\(V\_C(t\\ge0)\\) with \\(\\omega=\\omega\_0=\\dfrac{1}{\\sqrt{LC}}\\) and \\(L \< 4R^2C\\).
 
 {{< div-with-class "reveal4">}}
 
