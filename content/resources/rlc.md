@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: Figure 3_2
+parent_uid: cca16ea1-32be-6301-0b9c-8d6407cc3dc3
 resourcetype: Image
 title: RLC.JPG
 uid: de02249c-029d-ec40-be2a-38aa808769b0

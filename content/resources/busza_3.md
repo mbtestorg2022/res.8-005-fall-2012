@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: ccd258c9-9e21-f95c-6363-d6ee98034db2
 resourcetype: Image
 title: Busza_3.jpg
 uid: dc79ca0f-e2cd-f579-a751-c02f9de79598

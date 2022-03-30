@@ -24,7 +24,7 @@ Course Outcomes
 
 ### Possibilities for Further Study/Careers
 
-_8.03 Physics III_ is the third course in a sequence of four physics courses. It prepares students to take [_8.04 Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2013/).
+_8.03 Physics III_ is the third course in a sequence of four physics courses. It prepares students to take [_8.04 Quantum Physics I_](/courses/8-04-quantum-physics-i-spring-2013).
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -46,8 +46,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/)
-*   [_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
+*   [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010)
+*   [_8.02 Physics II: Electricity and Magnetism_](/courses/8-02-physics-ii-electricity-and-magnetism-spring-2007)
 
 ### Requirements Satisfied
 
